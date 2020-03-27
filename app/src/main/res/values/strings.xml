@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo_1</string>
+    <string name="Titulo_Activiti_Main">Primer Activity</string>
+    <string name="Titulo_Activiti_Second">Segundo Activity</string>
+    <string name="Saludos">Hola Mundo...</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Anterior">Anterior</string>
+</resources>
